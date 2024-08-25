@@ -1,0 +1,6 @@
+Collaborated with a 3-person team to design and build a vehicle that collects dustbins in streets, with the goal of creating an autonomous waste collection system.
+Initially developed a prototype that uses joystick control, and currently working on upgrading it to an autonomous vehicle.
+Successfully demonstrated a semi-autonomous prototype that:
+Utilizes a 3R manipulator with 2 degrees of freedom to collect and hold dustbins using magnetic docking.
+Allows a human operator to drive the vehicle and collect waste, with the manipulator automatically handling dustbin collection and placement.
+Features a mechanism to empty the dustbin contents into the vehicle's truck and return the dustbin to its original position.
